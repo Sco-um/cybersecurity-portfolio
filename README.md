@@ -6,9 +6,9 @@ Welcome to my cybersecurity portfolio! This portfolio showcases my learning jour
 ---
 
 ## About Me
-Hi, I am [Your Name]!  
-- 🌟 **Current Role**: [Your Role, e.g., Cybersecurity Student/IT Professional]  
-- 🔒 **Interest**: Passionate about cybersecurity, ethical hacking, and network defense.  
+Hi, I am YANG HAOQI!  
+- 🌟 **Current Role**: Cybersecurity Student
+- 🔒 **Interest**: Passionate about cybersecurity, ethical hacking, and network defense  
 - 📷 (Optional) Add a professional photo here.
 
 ---
@@ -61,6 +61,5 @@ To become a cybersecurity analyst specializing in threat detection and preventio
 ---
 
 ## Contact Information
-- **LinkedIn**: [Your LinkedIn URL]  
-- **Email**: [Your Email Address]  
-- **GitHub**: [Your GitHub Username]
+- **Email**:24060572@siswa.um.edu.my 
+- **GitHub**: Sco-um
