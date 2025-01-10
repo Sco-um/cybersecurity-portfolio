@@ -9,7 +9,6 @@ Welcome to my cybersecurity portfolio! This portfolio showcases my learning jour
 Hi, I am YANG HAOQI!  
 - 🌟 **Current Role**: Cybersecurity Student
 - 🔒 **Interest**: Passionate about cybersecurity, ethical hacking, and network defense  
-- 📷 (Optional) Add a professional photo here.
 
 ---
 
